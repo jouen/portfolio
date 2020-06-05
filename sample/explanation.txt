@@ -1,0 +1,6 @@
+- MenuController
+the controllers that will handle or where the route redirect the users to manage the data to show on the view
+- menuFormController
+will be responsible for create tables for edit and create of items on menu
+- MenuTableController
+will handle what action and what data that need to show on the datatable for index page of menu modules
